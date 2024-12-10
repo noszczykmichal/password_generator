@@ -4,10 +4,6 @@ import classes from "./Slider.module.css";
 
 function Slider({ displayedValue, onChange }) {
   const maxValue = 20;
-  const sliderWidth = getComputedStyle(
-    document.documentElement
-  ).getPropertyValue("--slider-width");
-  const sliderWidthNumber = +sliderWidth.substring(0, 3);
 
   return (
     <>
@@ -26,7 +22,7 @@ function Slider({ displayedValue, onChange }) {
         <div
           className={classes["slider-container__progress"]}
           style={{
-            width: `${Math.floor(sliderWidthNumber / 20) * displayedValue}px`,
+            width: `${4.7 * displayedValue}%`,
           }}
         />
       </div>
