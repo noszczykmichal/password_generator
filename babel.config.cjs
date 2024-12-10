@@ -1,3 +1,1 @@
-module.exports = {
-  plugins: [["module:@preact/signals-react-transform"]],
-};
+export const plugins = [["module:@preact/signals-react-transform"]];
