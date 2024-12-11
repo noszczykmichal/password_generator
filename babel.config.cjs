@@ -1,1 +1,4 @@
-export const plugins = [["module:@preact/signals-react-transform"]];
+/* eslint-disable no-undef */
+module.exports = {
+  plugins: [["module:@preact/signals-react-transform"]],
+};
