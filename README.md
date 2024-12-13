@@ -5,7 +5,7 @@
 Password Generator
 </h1>
 <p align="center">
-  A small app for generating passwords built with <a href="https://react.dev/" target="_blank">React</a>, powered by<a href="https://www.npmjs.com/package/@preact/signals-react" target="_blank">Preact-Signals</a>, animated with <a href="https://reactcommunity.org/react-transition-group/" target="_blank">React Transition Group</a>, and hosted on<a href="https://firebase.google.com/" target="_blank">Firebase</a>.
+  A small app for generating passwords built with <a href="https://react.dev/" target="_blank">React</a>, powered by <a href="https://www.npmjs.com/package/@preact/signals-react" target="_blank">Preact-Signals</a>, animated with <a href="https://reactcommunity.org/react-transition-group/" target="_blank">React Transition Group</a>, and hosted on <a href="https://firebase.google.com/" target="_blank">Firebase</a>.
 </p>
 <p align="center">
   <a href="https://password-generator-6c2c5.web.app/" target="_blank">Live demo</a>
@@ -23,7 +23,7 @@ Password Generator
 
 ## General Information
 
-- The app allows to generate passwords of lengths between 1-20 chars,which can consist of uppercase and lowercase letters, numbers, and symbols.
+- The app allows to generate passwords of lengths between 1-20 chars, which can consist of uppercase and lowercase letters, numbers, and symbols.
 - Upon button click, the generated password is stored to the clipboard.
 
 ## Setup
