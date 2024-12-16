@@ -11,7 +11,7 @@ Password Generator
   <a href="https://password-generator-6c2c5.web.app/" target="_blank">Live demo</a>
 </p>
 
-![demo](https://raw.githubusercontent.com/noszczykmichal/password_generator/main/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/noszczykmichal/password_generator/main/images/demo.png)
 
 ## Table of Contents
 
